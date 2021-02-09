@@ -1,0 +1,44 @@
+body {
+
+  background-image: url(tijuana.jpg);
+  color: rgb(236, 33, 33);
+  background-blend-mode: color-burn;
+}
+
+
+.list{
+  color: blue;
+}
+
+#box1 {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bolder;
+  background-color: rgb(245, 244, 185);
+  padding: 10px;
+  height: 300px;
+  width: 400px;
+  border: 30 px solid plum;
+  margin: 50px;
+  border-radius: 25px;
+  
+  
+}
+
+#box2 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  
+  background-color: rgb(167, 221, 243);
+  padding: 10p rgb(108, 247, 108);
+  height: 150px;
+  width: 150px;
+  border: 30 px solid plum;
+  margin: 50px;
+  border-radius: 5px;
+}
+
+#footer {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: larger;
+  font-weight: bold;
+}
