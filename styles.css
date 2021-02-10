@@ -24,12 +24,12 @@
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 500%;
   font-weight: bolder;
-  position: absolute; top: -85px; left: 100px;
+  position: absolute; top: -85px; left: 95px;
 }
 
 #name-is {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  position: absolute;top: 30px; left: 120px;
+  position: absolute;top: 30px; left: 117px;
   font-size: 250%;
   font-weight: bolder;
   
@@ -53,7 +53,7 @@
   font-family: cursive;
   font-size: 240%;;
   position: absolute;
-  left: 115px;
+  left: 105px;
   top: -10px;
 }
 
