@@ -27,16 +27,16 @@
   position: absolute; top: -85px; left: 100px;
 }
 
-#nameIs {
+#name-is {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  position: absolute;top: 30px; left: 118px;
+  position: absolute;top: 30px; left: 120px;
   font-size: 250%;
   font-weight: bolder;
   
   
 }
 
-#whiteBar {
+#white-bar {
     background-color: white;
     width: 400px;
     height: 110px;
@@ -55,4 +55,13 @@
   position: absolute;
   left: 115px;
   top: -10px;
+}
+
+#footer {
+   position: absolute;
+   top: 1300px;
+   text-align: end;
+   height: 40px;
+   background-color: rgb(255, 255, 255);
+
 }
