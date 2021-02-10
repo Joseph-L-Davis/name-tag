@@ -2,7 +2,7 @@
 #grey {
   background-color: rgb(228, 225, 225);
   width: 420px;
-  height: 300px;
+  height: 290px;
   position: absolute;
   
 
@@ -16,7 +16,7 @@
   padding: 5px;
   position: absolute;
   border-radius: 4%;
-  position: absolute; left: 13px; top: 22px;
+  position: absolute; left: 5px; top: 10px;
 
 }
 
@@ -29,11 +29,22 @@
 
 #name-is {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  position: absolute;top: 30px; left: 117px;
+  position: absolute;top: 30px; left: 115px;
   font-size: 250%;
   font-weight: bolder;
   
   
+}
+
+.container {
+  position: absolute;
+  left: 400px;
+}
+
+#btn {
+  position: absolute;
+  top: 350px;
+  left: 570px;
 }
 
 #white-bar {
@@ -44,7 +55,7 @@
     z-index: 1;
     padding: 5px;
     position: absolute;
-    left: 12px;
+    left: 5px;
     top: 140px;
   
 }
@@ -55,6 +66,20 @@
   position: absolute;
   left: 105px;
   top: -10px;
+
+}
+
+#name-input {
+  position: absolute;
+  left: 100px;
+  background-color: rgb(161, 241, 241);
+}
+
+#your-name {
+  position: absolute;
+  top: 320px;
+  left: 480px;
+  
 }
 
 #footer {
@@ -65,3 +90,4 @@
    background-color: rgb(255, 255, 255);
 
 }
+

@@ -5,20 +5,28 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="styles.css" />
+    <script type="module" src="app.js"></script>
     <!--This is important for opening on mobile-->
     <title>🤘Party on Garth!🤘</title>
   </head>
 
   <body style="background-color: rgb(255, 255, 255)">
-    <main id="grey"></main>
+    <p>
+      <label id="your-name"
+        ><input id="name-input" /> <strong>Enter a name: : </strong></label
+      >
+      <button id="btn">Change it!</button>
+    </p>
+    <div class="container">
+      <main id="grey"></main>
+      <div id="sticker">
+        <p id="hello" style="color: white">HELLO</p>
+        <p id="name-is" style="color: white">my name is</p>
+      </div>
 
-    <div id="sticker">
-      <p id="hello" style="color: white">HELLO</p>
-      <p id="name-is" style="color: white">my name is</p>
-    </div>
-
-    <div id="white-bar">
-      <p id="name">Joseph Davis</p>
+      <div id="white-bar">
+        <p id="name">Joseph Davis</p>
+      </div>
     </div>
 
     <footer id="footer">&copy; 2021 Joseph Davis</footer>
